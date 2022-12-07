@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajkanya. @rajkanya2709
 - 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning Computer Science Engineering.
+- 🌱 I’m currently pursuing Computer Science Engineering.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me rajkanyam02@gmail.com
 
